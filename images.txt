@@ -1,1 +1,1 @@
-php:8-apache
+sonarqube:10.1.0-community
